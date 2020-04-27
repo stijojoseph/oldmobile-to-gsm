@@ -1,3 +1,3 @@
 # oldmobile-to-gsm
 download my source code and upload to arduino
-for more details or queries visit my tutorial video -
+for more details or queries visit my tutorial video - https://youtu.be/p6fEkMFqIAc
